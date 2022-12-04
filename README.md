@@ -2,11 +2,11 @@
 Weather app created with Kotlin. 
 
 ## What it offers
-US baed format of City, US. Shows the temp as well as a description of the status. Offers a card view of the 5 day weather. Very simple design that will be updated.
+US based format of City, US. Shows the temp as well as a description of the status. Offers a card view of the 5 day weather. Very simple design that will be updated.
 
 ## Tools used
-Kotlin
-API
+Kotlin<br>
+API<br>
 Android Studio
 
 ## Future 
