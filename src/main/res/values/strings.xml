@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Weather API</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Weather App</string>
+    <string name="second_fragment_label">Current Weather</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="enter_a_city">Enter a city</string>
+    <string name="current_weather">current weather</string>
+    <string name="november_29_2022">November 29, 2022</string>
+    <string name="roseville_us">Roseville, US</string>
+    <string name="_0_f">0°F</string>
+    <string name="nice_day">Nice day</string>
+    <string name="weather_icon">weather icon</string>
+    <string name="enter_a_city_name">Enter a city name</string>
+    <string name="list">List</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+</resources>
