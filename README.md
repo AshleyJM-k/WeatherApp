@@ -7,6 +7,7 @@ US baed format of City, US. Shows the temp as well as a description of the statu
 ## Tools used
 Kotlin
 API
+Android Studio
 
 ## Future 
 Will work on UI and another fragment/page display as the user taps the card on the 5 day screen. This will display more info by the hour as well as a general summary of the day. 
